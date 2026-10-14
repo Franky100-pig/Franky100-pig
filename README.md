@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Here is Franky.</h1>
-  <p>High school student · Guangzhou, China · coding for fun and for school projects</p>
+  <p>High school student · coding for fun and for school projects</p>
 </div>
 
 ---
 
 ### About me
 
-I'm a high school student in Guangzhou. I use GitHub as a toolbox for things I build while learning — small games, math tools, and offline toys. Still a beginner, still shipping.
+I'm a high school student. I use GitHub as a toolbox for things I build while learning — small games, math tools, and offline toys. Still a beginner, still shipping.
 
 Off the keyboard: tennis, basketball, chess.
 
