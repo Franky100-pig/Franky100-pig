@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Here is Franky.</h1>
+  <h1>Hi! Franky here.</h1>
   <p>High school student · coding for fun and for school projects</p>
 </div>
 
